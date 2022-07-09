@@ -151,3 +151,18 @@ body, main{
   grid-row: 10/11;
   Margin-top:-20px;
 }
+.card8{
+  grid-column:1/4;
+  grid-row: 11/12;
+  Margin-top:10px;
+}
+.card9{
+  grid-column:1/4;
+  grid-row: 12/13;
+  Margin-top:-20px;
+}
+.card10{
+  grid-column:1/4;
+  grid-row: 13/14;
+  Margin-top:-20px;
+}
