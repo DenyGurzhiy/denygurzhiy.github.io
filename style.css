@@ -166,3 +166,18 @@ body, main{
   grid-row: 13/14;
   Margin-top:-20px;
 }
+.card11{
+  grid-column:1/4;
+  grid-row: 14/15;
+  Margin-top:10px;
+}
+.card12{
+  grid-column:1/4;
+  grid-row: 15/16;
+  Margin-top:-20px;
+}
+.card13{
+  grid-column:1/4;
+  grid-row: 16/17;
+  Margin-top:-20px;
+}
